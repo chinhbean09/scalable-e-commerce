@@ -1,4 +1,4 @@
-# Microservices Project
+# Scalable E-Commerce Platform (Microservices)
 
 This project is a microservices architecture using Spring Boot and Event Sourcing.
 
